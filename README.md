@@ -35,7 +35,7 @@ Install OpenGL and GLUT libraries in your IDE or system.
 
 Clone or download the project:
 
-git clone https://github.com/yourusername/AQUARIUM.git
+git clone https://github.com/Vij18eta/Aquarium-cgv.git
 
 
 Compile and run the program:
